@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About the app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is small note manager app which doesn't have any servers or api calls.
 
 ## Available Scripts
 
